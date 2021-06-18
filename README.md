@@ -31,7 +31,7 @@ This is a pioneer competition as far as low-resourced West African languages are
 
 [![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/kingabzpro/French-to-Fongbe-and-Ewe-MT/blob/main/simple_transformer_french_to_fongbe_and_ewe%20(1).ipynb)
 
-[![jupyter](https://img.shields.io/badge/View_on-Jupyter-0c0c0c?logo=Jupyter&style=for-the-badge)](https://nbviewer.jupyter.org/github/kingabzpro/French-to-Fongbe-and-Ewe-MT/blob/89d2b66198661f9fd7619737d80f1a28c5989838/simple_transformer_french_to_fongbe_and_ewe (1).ipynb)
+[![jupyter](https://img.shields.io/badge/View_on-Jupyter-0c0c0c?logo=Jupyter&style=for-the-badge)](https://nbviewer.jupyter.org/github/kingabzpro/French-to-Fongbe-and-Ewe-MT/blob/89d2b66198661f9fd7619737d80f1a28c5989838/simple_transformer_french_to_fongbe_and_ewe_(1).ipynb)
 
 This library is based on the Transformers library by HuggingFace. Simple Transformers lets you quickly train and evaluate Transformer models. Only 3 lines of code are needed to initialize a model, train the model, and evaluate a model.
 

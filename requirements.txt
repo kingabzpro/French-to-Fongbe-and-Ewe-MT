@@ -1,0 +1,4 @@
+simpletransformers
+fsspec==2021.5.0
+scikit-learn
+pandas

@@ -1,4 +1,4 @@
- # Machine translation using `simpletransformers` *Yorùbá to English*
+ # Machine translation using `simpletransformers` *French to Fongbe and Ewe*
 
 ![Picture title](image-20210601-095719.png)
 

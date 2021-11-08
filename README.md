@@ -86,3 +86,6 @@ Using simple transformer seq2seq I have downloaded `Helsinki-NLP/opus-mt-en-mul`
 # Results
 
 ![](image-20210618-124722.png)
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
